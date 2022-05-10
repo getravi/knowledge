@@ -10,4 +10,4 @@
 ## Career Tools
 
 * [Job Search Tips](career-tools/job-search-tips.md)
-* [Filing Expenses](career-tools/filing-expenses.md)
+* [Salary Negotiation Tips](career-tools/salary-negotiation-tips.md)
