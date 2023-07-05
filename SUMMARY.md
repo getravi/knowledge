@@ -5,6 +5,7 @@
 ## Robotics
 
 * [Robotics Books](robotics/robotics-books.md)
+* [Robotics Resources](robotics/robotics-resources.md)
 
 ## Career Tools
 
